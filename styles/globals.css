@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bgtt {
+  background-color
+  : white;
+  height: 100vh;
+}
+
+.pad2 {
+  text-align: center;
+}
